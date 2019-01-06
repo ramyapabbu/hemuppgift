@@ -1,0 +1,12 @@
+body{
+    background-image: url("bak.jpg");
+                background-repeat: no-repeat;
+                background-size: cover;
+
+}
+li{
+    text-align:center;
+}
+h1{
+    font-family: 'Unlock', cursive;
+}
